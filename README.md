@@ -1,4 +1,4 @@
-# Entri-Power-BI-Projrct
+# Entri-Power-BI-Project
 Financial Datasets
 Insightful Analysis
 This analysis of the financial dataset focuses on several key metrics, including sales, profit, cost of goods sold (COGS), and discount patterns across different products, countries, and segments. Below are the major insights identified during the analysis.
