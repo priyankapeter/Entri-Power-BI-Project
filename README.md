@@ -40,5 +40,5 @@ This card displays the total COGS, total sales, total discounts, total profit fo
 Slicer(Segment, Country, Product and Year):
 This slicer allows users to select a specific segment, country, product and year to analyse.
 Conclusion
-The analysis provides a deep understanding of the sales and profit drivers across different segments, countries, and products. By optimizing discount strategies, targeting cost-efficiencies, and focusing on high-margin products, the company can improve both sales growth and profitability over time.
+The analysis provides a deep understanding of the sales and profit drivers across different segments, countries, and products. By optimizing discount strategies, targeting cost-efficiencies, and focusing on high-margin products, the company can improve both sales growth and profitability over time. 
 
