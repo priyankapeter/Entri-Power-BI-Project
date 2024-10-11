@@ -10,7 +10,7 @@ The Line bar graph displays the total sales and profit for each country.
 The columns represent total sales, with each segment of the line showing the portion of profit.
 Countries are listed on the X-axis, and total sales and profit values are shown on the Y-axis.
 This chart allows users to easily compare both total sales and the profit contribution across different countries.
- Slicer (country):
+Slicer (country):
 A slicer is added to the dashboard, allowing users to filter the data by country.
 Users can select one or multiple country to focus on sales and profit performance in specific time frames.
 The slicer enhances interactivity by giving users control over the data displayed in the bar and line graphs.
